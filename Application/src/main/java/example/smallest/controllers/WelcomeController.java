@@ -16,6 +16,6 @@ public class WelcomeController {
 		
 		
 		
-		return "Congratulations DevOps Engineers!!! AWS DevOps is a recesion-proof IT Career, All the best for your Bright future"; //"application/json" mean this is a text not a redirect
+		return "Hi Nagarjuna you have succesfully completed e2e project"; //"application/json" mean this is a text not a redirect
 	}
 }
